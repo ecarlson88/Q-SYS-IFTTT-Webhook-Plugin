@@ -2,11 +2,12 @@
 
 ## Overview
 ### Description:
-This repo contains a Q-SYS Plugin for interacting with IFTTT's Maker Webhook Integration. The goal is to allow for simple tirggering of third party devices that are already integrated into IFTTT from within the Q-SYS control ecosystem. This can be useful for device that may not The controls can be placed on an UCI to allow for users interactions
+This repo contains a Q-SYS Plugin for interacting with IFTTT's Maker Webhook Integration. The goal is to allow for simple tirggering of third party devices that are already integrated into IFTTT from within the Q-SYS control ecosystem. This can be useful for devices that may not have a published API or to trigger interesting automations not typical to AV control systems.
 
---As of V1.0 only --Receive a web request-- trigger is supported.--
+In this initial release. V1.0 of this plugin only supports the "Receive a web request" Webhook trigger
 
-## Screenshots and Videos
+## Screenshots
+
 Plugin inside of Q-SYS Designer
 ![Plugin](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20203225.png)
 
@@ -14,12 +15,12 @@ Plugin inside of Q-SYS Designer
 
 
 IFTTT Webhook Applet Example
-![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20200726.png)
+![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20200726(1).png)
 
 
 
 ## Instructions
-In order to use this plugin you will need an IFTTT account. Free and pro account will both function but the free account is limited to 5 running Applets*
+In order to use this plugin you will need an IFTTT account.Both the Free and Pro accounts will function but the free account is limited to 5 running Applets*
 
 More information on IFTTT's Webhook Integration can be found here: https://help.ifttt.com/hc/en-us/articles/115010230347
 
@@ -51,4 +52,4 @@ Q-SYS Designer 9.5
 ### License:
 MIT
 ### Support:
-THIS IS AN EALRY RELEASE!There is most likely bugs and not all features are supported at this time. If you find any issues please reach out, but also please test thoroughly  before using in any production environments
+THIS IS AN EALRY RELEASE! There are most likely bugs and not all webhook features are supported at this time. If you find any issues please reach out, but also please test thoroughly  before using in any production environments
