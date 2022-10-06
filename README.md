@@ -31,7 +31,7 @@ More information on IFTTT's Webhook Integration can be found here: https://help.
 1. Get IFTTT Webhook Key
 2. Create desired IFTTT Applet with the Webhook integration. Make note of what you name this applet. You will need it later 
 3. Open Q-SYS Designer and drop IFTTT-Webhook into the design space.
-4. In emmulation or on running enter your webhook key and Applet Name (Event Name) into Plugin
+4. With our design in emmulation or running on a core, enter your webhook key and Applet Name (Event Name) into Plugin
 5. Press Trigger 
 
 Debug Window available to be turned on in properties window
