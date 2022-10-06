@@ -4,7 +4,7 @@
 ### Description:
 This repo contains a Q-SYS Plugin for interacting with IFTTT's Maker Webhook Integration. The goal is to allow for simple tirggering of third party devices that are already integrated into IFTTT from within the Q-SYS control ecosystem. This can be useful for devices that may not have a published API or to trigger interesting automations not typical to AV control systems.
 
-In this initial release. V1.0 of this plugin only supports the "Receive a web request" Webhook trigger
+In this initial release, V1.0 of this plugin only supports the "Receive a web request" webhook trigger without the ability to pass values
 
 ## Screenshots
 
