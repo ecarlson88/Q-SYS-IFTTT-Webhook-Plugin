@@ -10,7 +10,8 @@ This repo contains a Q-SYS Plugin for interacting with IFTTT's Maker Webhook Int
 
 ![Plugin](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20104616.png)
 Screen shot of plugin inside of Q-SYS Designer
-![IFTTT](
+![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20200726.png)
+IFTTT Webhook Applet Example
 
 
 ## Instructions
