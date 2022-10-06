@@ -7,11 +7,15 @@ This repo contains a Q-SYS Plugin for interacting with IFTTT's Maker Webhook Int
 --As of V1.0 only --Receive a web request-- trigger is supported.--
 
 ## Screenshots and Videos
-
+Plugin inside of Q-SYS Designer
 ![Plugin](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20104616.png)
-Screen shot of plugin inside of Q-SYS Designer
-![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20200726.png)
+
+
+
+
 IFTTT Webhook Applet Example
+![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20200726.png)
+
 
 
 ## Instructions
@@ -47,5 +51,4 @@ Q-SYS Designer 9.5
 ### License:
 MIT
 ### Support:
-THIS IS AN EALRY RELEASE! IT IS NOT OFFICIALLY SUPPORTED BY QSC!
-If you have questions or comments, please address them in the QSC Communities for Developers Code Exchange. 
+THIS IS AN EALRY RELEASE!There is most likely bugs and not all features are supported at this time. If you find any issues please reach out, but also please test thoroughly  before using in any production environments
