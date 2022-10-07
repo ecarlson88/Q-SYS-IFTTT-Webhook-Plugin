@@ -8,8 +8,9 @@ In this initial release, V1.1 of this plugin only supports the "Receive a web re
 
 ## Screenshots
 
-Plugin inside of Q-SYS Designer
-![Plugin](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20203225.png)
+![Plugin2](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Send-Values-Off.png)
+![Plugin](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Send-Values-On.png)
+
 
 
 
@@ -31,7 +32,7 @@ More information on IFTTT's Webhook Integration can be found here: https://help.
 1. Get IFTTT Webhook Key
 2. Create desired IFTTT Applet with the Webhook integration. Make note of what you name this applet. You will need it later 
 3. Open Q-SYS Designer and drop IFTTT-Webhook into the design space.
-4. You can send up to 3 values to the webhook. enable Send Values in Properties
+4. If needed you can send up to 3 values to the webhook. Enable "Send Values" in Properties
 4. With our design in emmulation or running on a core, enter your webhook key and Applet Name (Event Name) into Plugin
 5. Press Trigger 
 
