@@ -1,10 +1,10 @@
-# IFTTT Maker Webhook Plugin V1.0
+# IFTTT Maker Webhook Plugin V1.1
 
 ## Overview
 ### Description:
 This repo contains a Q-SYS Plugin for interacting with IFTTT's Maker Webhook Integration. The goal is to allow for simple tirggering of third party devices that are already integrated into IFTTT from within the Q-SYS control ecosystem. This can be useful for devices that may not have a published API or to trigger interesting automations not typical to AV control systems.
 
-In this initial release, V1.0 of this plugin only supports the "Receive a web request" webhook trigger without the ability to pass values
+In this initial release, V1.1 of this plugin only supports the "Receive a web request" webhook trigger and does not support aribitrary JSON payloads
 
 ## Screenshots
 
@@ -31,6 +31,7 @@ More information on IFTTT's Webhook Integration can be found here: https://help.
 1. Get IFTTT Webhook Key
 2. Create desired IFTTT Applet with the Webhook integration. Make note of what you name this applet. You will need it later 
 3. Open Q-SYS Designer and drop IFTTT-Webhook into the design space.
+4. You can send up to 3 values to the webhook. enable Send Values in Properties
 4. With our design in emmulation or running on a core, enter your webhook key and Applet Name (Event Name) into Plugin
 5. Press Trigger 
 
@@ -39,12 +40,16 @@ Debug Window available to be turned on in properties window
 ## Available Pins
 
 ### Input
-- Trigger Button
+- Trigger
 - Web Key (String)
 - Event Name (String)
 ### Output
 - Web Key (String)
 - Event Name (String)
+### With "Send Values" Enabled
+- Value 1 (String)
+- Value 2 (String)
+- Value 3 (String)
 
 ## Additional Information
 ### Tested On:
