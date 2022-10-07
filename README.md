@@ -15,8 +15,9 @@ In this initial release, V1.1 of this plugin only supports the "Receive a web re
 
 
 
+
+![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/IFTTT.png)
 IFTTT Webhook Applet Example
-![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Screenshot%202022-10-05%20200726(1).png)
 
 
 
