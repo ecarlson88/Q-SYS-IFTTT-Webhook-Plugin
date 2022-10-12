@@ -8,15 +8,15 @@ In this initial release, V1.1 of this plugin only supports the "Receive a web re
 
 ## Screenshots
 
-![Plugin2](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Send-Values-Off.png)
-![Plugin](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/Send-Values-On.png)
+![Plugin2](https://raw.githubusercontent.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/main/Send-Values-Off.png)
+![Plugin](https://raw.githubusercontent.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/main/Send-Values-On.png)
 
 
 
 
 
 
-![IFTTT](https://github.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/blob/main/IFTTT.png)
+![IFTTT](https://raw.githubusercontent.com/ecarlson88/Q-SYS-IFTTT-Webhook-Plugin/main/IFTTT.png)
 IFTTT Webhook Applet Example
 
 
